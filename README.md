@@ -20,7 +20,7 @@
 <code><img height="40" src="https://github.com/gabrielclimb/gabrielclimb/blob/master/snippets/docker.png"></code>
 <code><img height="40" src="https://github.com/gabrielclimb/gabrielclimb/blob/master/snippets/airflow.png"></code>
 <code><img height="40" src="https://github.com/gabrielclimb/gabrielclimb/blob/master/snippets/aws.png"></code>
-<code><img height="40" src="https://github.com/gabrielclimb/gabrielclimb/blob/master/snippets/jupyter.png"></code>
+<code><img height="40" src="https://github.com/gabrielclimb/gabrielclimb/blob/master/snippets/jupyter.svg"></code>
 <!--
 **gabrielclimb/gabrielclimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
