@@ -1,4 +1,11 @@
 ### Hi there 👋
+# Gabriel Barbosa Soares 🌋 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-soares-2302895b/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/9697378/gabriel-soares)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielclimb@gmail.com)
+
+🔭 I’m currently working on CargoX
 
 <!--
 **gabrielclimb/gabrielclimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
