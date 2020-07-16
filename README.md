@@ -1,5 +1,4 @@
-# Hi there 👋
-# Gabriel Barbosa Soares 🌋
+## Hi, I'm Gabriel Barbosa Soares 🌋, Data Scientist / Data Engineer
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-soares-2302895b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielclimb@gmail.com)
@@ -38,4 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Onimur's github stats](https://github-readme-stats.vercel.app/api?username=gabrielclimb&show_icons=true)
+
+------------------------------------------------------------------------------------------
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gabrielclimb&show_icons=true)
