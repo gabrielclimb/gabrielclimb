@@ -1,4 +1,4 @@
-## Hi, I'm Gabriel Barbosa Soares 🌋, Data Scientist / Data Engineer
+## Hi, I'm Gabriel Barbosa Soares 🌋, Data Scientist / ML Engineer
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-soares-2302895b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielclimb@gmail.com)
