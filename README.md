@@ -1,11 +1,11 @@
-## Hi, I'm Gabriel Barbosa Soares 🌋, Data Scientist / ML Engineer
+## Hi, I'm Gabriel Barbosa Soares 🌋, ML Engineer
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-soares-2302895b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielclimb@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/9697378/gabriel-soares)
 
 
-- 🔭 I’m currently working on [BTG Pactual](https://www.btgpactual.com/)
+- 🔭 I’m currently working on [Nubank](https://nubank.com.br/)
 - ⚡ Fun fact: I have a bachelor in Geology
 - 🌱 I’m currently learning functional programming and deep learning
 - 🤔 I’m looking for help with Bayes Statistics;
