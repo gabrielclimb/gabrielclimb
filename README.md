@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SaltPay](https://www.saltpay.co/)
 - ⚡ Fun fact: I have a bachelor in Geology
-
+- 🌱 I’m currently learning GoLang
 
 **Languages and Tools:**
 
