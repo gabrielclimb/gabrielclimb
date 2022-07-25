@@ -5,10 +5,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/9697378/gabriel-soares)
 
 
-- 🔭 I’m currently working on [Nubank](https://nubank.com.br/)
+- 🔭 I’m currently working on [SaltPay](https://www.saltpay.co/)
 - ⚡ Fun fact: I have a bachelor in Geology
-- 🌱 I’m currently learning functional programming and deep learning
-- 🤔 I’m looking for help with Bayes Statistics;
 
 
 **Languages and Tools:**
