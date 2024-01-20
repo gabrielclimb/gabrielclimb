@@ -5,9 +5,9 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/9697378/gabriel-soares)
 
 
-- 🔭 I’m currently working on [SaltPay](https://www.saltpay.co/)
+- 🔭 I’m currently working on [Teya](https://teya.com/)
 - ⚡ Fun fact: I have a bachelor in Geology
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning GoLang, K8s and Kafka
 
 **Languages and Tools:**
 
